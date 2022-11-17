@@ -1,8 +1,9 @@
 # Controle de Estudo 
 ## Usando Laravel e Filament 
 
-[Laravel 9](https://laravel.com/)
-[Filament](https://filamentphp.com/)
+- [Laravel 9](https://laravel.com/)
+
+- [Filament](https://filamentphp.com/)
 
 Estou usando o Sail. Por isso os comandos estarão com sail a frente.
 
